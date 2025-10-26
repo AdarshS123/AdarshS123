@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Adarsh Krishna
+**Master's in Data Science — Deakin University**  
+AI / ML / Data Engineering enthusiast. I build privacy-aware GenAI apps, ML models, and analytics dashboards.
 
-<!--
-**AdarshS123/AdarshS123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 adarshkrishs@gmail.com | 🔗 linkedin.com/in/adarsh-krishna-s-605a4b201
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured
+- 🔭 Building a **RAG Chatbot (local)** — retrieval + LLMs
+
+---
+
+## Tech
+Python · SQL · Pandas · Scikit-learn · LangChain · LlamaIndex · Power BI · Docker · R · AWS · AI/ML ·  
+
+---
+
+> Check below for my portfolio and pinned projects 👇
