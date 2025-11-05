@@ -8,6 +8,7 @@ AI / ML / Data Engineering enthusiast. I build privacy-aware GenAI apps, ML mode
 
 ## Featured
 - 🔭 Building a **RAG Chatbot (local)** — retrieval + LLMs
+- 🏥 Hospital Inpatient Analytics — SQL & Power BI Project
 
 ---
 
