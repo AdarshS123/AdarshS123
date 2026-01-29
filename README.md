@@ -7,14 +7,43 @@ AI / ML / Data Engineering enthusiast. I build privacy-aware GenAI apps, ML mode
 ---
 
 ## Featured
-- 🔭 Building a **RAG Chatbot (local)** — retrieval + LLMs
-- 🏥 Hospital Inpatient Analytics — SQL & Power BI Project
+
+- 🧠 **Building a RAG Chatbot (Local)**  
+  https://github.com/AdarshS123/rag-chatbot-local  
+  Retrieval-Augmented Generation system using document retrieval with LLMs.  
+  *Tech:* Python, LangChain, LlamaIndex, FAISS, Docker
+
+- 🏥 **Hospital Inpatient Analytics**  
+  https://github.com/AdarshS123/Hospital_Inpatient_Analytics  
+  Healthcare analytics project with interactive dashboards for inpatient data.  
+  *Tech:* SQL, Power BI, Data Modeling
+
+- 💳 **Credit Card Spend & Risk Analytics**  
+  https://github.com/AdarshS123/Credit-card-spend-risk-analytics  
+  Exploratory data analysis and risk insights on customer spending patterns.  
+  *Tech:* Python, Pandas, NumPy, Matplotlib, Jupyter Notebook Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
 ---
 
 ## Tech
-Python · SQL · Pandas · Scikit-learn · LangChain · LlamaIndex · Power BI · Docker · R · AWS · AI/ML ·  
+**Languages & Core:**  
+Python · SQL · R  
+
+**Data Science & ML:**  
+Pandas · NumPy · Scikit-learn · Matplotlib  
+
+**GenAI / LLM:**  
+LangChain · LlamaIndex · FAISS · RAG  
+
+**BI & Analytics:**  
+Power BI · Data Modeling · DAX  
+
+**Engineering & Cloud:**  
+Docker · AWS 
 
 ---
 
 > Check below for my portfolio and pinned projects 👇
+>**Building a RAG Chatbot (Local)**  https://github.com/AdarshS123/rag-chatbot-local 
+> **Hospital Inpatient Analytics**   https://github.com/AdarshS123/Hospital_Inpatient_Analytics
+>**Credit Card Spend & Risk Analytics**    https://github.com/AdarshS123/Credit-card-spend-risk-analytics  
