@@ -59,9 +59,4 @@ Power BI · Data Modeling · DAX
 
 Docker · AWS · FastAPI · PostgreSQL
 
----
 
-> Check below for my portfolio and pinned projects 👇
->**Building a RAG Chatbot (Local)**  https://github.com/AdarshS123/rag-chatbot-local 
-> **Hospital Inpatient Analytics**   https://github.com/AdarshS123/Hospital_Inpatient_Analytics
->**Credit Card Spend & Risk Analytics**    https://github.com/AdarshS123/Credit-card-spend-risk-analytics  
