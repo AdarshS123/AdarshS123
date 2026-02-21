@@ -39,23 +39,23 @@ Tech: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 ---
 
 ## Tech
-# Languages & Core
+### Languages & Core
 
 Python · SQL · R
 
-# Data Science & ML
+### Data Science & ML
 
 Pandas · NumPy · Scikit-learn · Matplotlib
 
-# GenAI / LLM
+### GenAI / LLM
 
 LangChain · LlamaIndex · FAISS · RAG
 
-# BI & Analytics
+### BI & Analytics
 
 Power BI · Data Modeling · DAX
 
-# Engineering & Cloud
+### Engineering & Cloud
 
 Docker · AWS · FastAPI · PostgreSQL
 
