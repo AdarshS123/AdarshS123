@@ -2,7 +2,7 @@
 **Master's in Data Science — Deakin University**  
 AI / ML / Data Engineering enthusiast. I build privacy-aware GenAI apps, ML models, and analytics dashboards.
 
-📫 adarshkrishs@gmail.com | 🔗 linkedin.com/in/adarsh-krishna-s-605a4b201
+📫 adarshkrishs@gmail.com | 🔗 linkedin.com/in/adarshkrishnasuresh
 
 ---
 
@@ -35,6 +35,15 @@ https://github.com/AdarshS123/Credit-card-spend-risk-analytics
 
 Exploratory data analysis and risk insights on customer spending patterns.
 Tech: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+
+
+📊 Retail Performance Analytics Dashboard
+
+https://github.com/AdarshS123/Retail-Performance-Analytics-Dashboard-
+
+End‑to‑end retail analytics system covering data generation, ETL workflows, KPI computation, and interactive dashboarding. Includes synthetic dataset creation, automated data cleaning, and multi‑page Power BI dashboards for sales, customers, and product performance.
+Tech: Python, Pandas, NumPy, Power BI, SQL, Data Modeling, ETL Pipelines
+
 
 ---
 
