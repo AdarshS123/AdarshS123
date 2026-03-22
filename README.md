@@ -51,6 +51,12 @@ https://github.com/AdarshS123/financial-analytics-dashboard
 
 End-to-end financial data analysis project focused on revenue, expense, and profitability trends. Includes SQL-based data aggregation, profit margin analysis, budget vs actual comparison, and an interactive Excel dashboard with KPI cards and visual insights. Tech: MySQL, SQL, Excel, Data Analysis, Data Visualization
 
+📊 Melbourne Rental Market Intelligence (2000–2025)
+
+https://github.com/AdarshS123/melbourne-rental-market-intelligence
+
+End-to-end rental market analytics project analysing suburb-level rental trends across Melbourne from 2000 to 2025. Includes data cleaning and transformation, time-series analysis (YoY growth, CAGR), regional affordability insights, and an interactive Power BI dashboard with KPI cards, heatmaps, and trend visualisations. Tech: Python, Pandas, Power BI, Data Analysis, Data Visualization
+
 ---
 
 ## Tech
