@@ -57,6 +57,14 @@ https://github.com/AdarshS123/melbourne-rental-market-intelligence
 
 End-to-end rental market analytics project analysing suburb-level rental trends across Melbourne from 2000 to 2025. Includes data cleaning and transformation, time-series analysis (YoY growth, CAGR), regional affordability insights, and an interactive Power BI dashboard with KPI cards, heatmaps, and trend visualisations. Tech: Python, Pandas, Power BI, Data Analysis, Data Visualization
 
+
+📊 Sales Performance Dashboard (Excel)
+
+https://github.com/AdarshS123/sales-dashboard-excel
+
+End-to-end sales analytics project focused on revenue, profitability, and operational performance across states, service categories, and sales agents. Includes data cleaning and standardisation using Excel functions (TRIM, IFERROR, XLOOKUP), KPI development (total sales, profit, order volume, average order value), and interactive dashboard design using PivotTables, slicers, and visual insights. Tech: Excel, Data Cleaning, Data Analysis, Data Visualization, PivotTables, Business Intelligence
+
+
 ---
 
 ## Tech
