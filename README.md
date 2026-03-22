@@ -45,6 +45,12 @@ End‑to‑end retail analytics system covering data generation, ETL workflows, 
 Tech: Python, Pandas, NumPy, Power BI, SQL, Data Modeling, ETL Pipelines
 
 
+📊 Financial Analytics Dashboard (SQL + Excel)
+
+https://github.com/AdarshS123/financial-analytics-dashboard
+
+End-to-end financial data analysis project focused on revenue, expense, and profitability trends. Includes SQL-based data aggregation, profit margin analysis, budget vs actual comparison, and an interactive Excel dashboard with KPI cards and visual insights. Tech: MySQL, SQL, Excel, Data Analysis, Data Visualization
+
 ---
 
 ## Tech
