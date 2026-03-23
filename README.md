@@ -65,6 +65,13 @@ https://github.com/AdarshS123/sales-dashboard-excel
 End-to-end sales analytics project focused on revenue, profitability, and operational performance across states, service categories, and sales agents. Includes data cleaning and standardisation using Excel functions (TRIM, IFERROR, XLOOKUP), KPI development (total sales, profit, order volume, average order value), and interactive dashboard design using PivotTables, slicers, and visual insights. Tech: Excel, Data Cleaning, Data Analysis, Data Visualization, PivotTables, Business Intelligence
 
 
+📊 Customer Segmentation & Revenue Intelligence Dashboard (Power BI)
+
+https://github.com/AdarshS123/customer-segmentation-dashboard
+
+End-to-end customer analytics project focused on segmentation, revenue intelligence, and retention strategy. Includes data cleaning and transformation, DAX-based KPI computation (Total Revenue, Profit, AOV, CLV, Recency, Frequency), and an interactive multi-visual Power BI dashboard analysing customer behaviour, service performance, and regional trends. Features customer segmentation (High Value, At Risk, Mid Value, Low Engagement) and actionable insights to improve retention and business growth.
+Tech: Power BI, DAX, Power Query, Excel, Data Analysis, Data Visualization, Business Intelligence
+
 ---
 
 ## Tech
