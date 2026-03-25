@@ -72,6 +72,13 @@ https://github.com/AdarshS123/customer-segmentation-dashboard
 End-to-end customer analytics project focused on segmentation, revenue intelligence, and retention strategy. Includes data cleaning and transformation, DAX-based KPI computation (Total Revenue, Profit, AOV, CLV, Recency, Frequency), and an interactive multi-visual Power BI dashboard analysing customer behaviour, service performance, and regional trends. Features customer segmentation (High Value, At Risk, Mid Value, Low Engagement) and actionable insights to improve retention and business growth.
 Tech: Power BI, DAX, Power Query, Excel, Data Analysis, Data Visualization, Business Intelligence
 
+📊 Sales Forecasting using Predictive Analytics
+
+https://github.com/AdarshS123/sales-forecasting-project
+
+End-to-end predictive analytics project focused on forecasting sales using historical retail data. Includes data cleaning, feature engineering, exploratory data analysis (EDA), and machine learning model development using Random Forest regression. Demonstrates model evaluation using MAE, RMSE, and R², along with insights into model limitations and opportunities for improvement. Tech: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenPyXL
+
+
 ---
 
 ## Tech
